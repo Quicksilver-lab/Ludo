@@ -1,11 +1,16 @@
 # Terminal Ludo Game
+<p align="center">
+<img src="/assets/line.gif">             
+</p>
 
 Welcome to Terminal Ludo, a simple version of the classic board game Ludo that can be played directly in the terminal!
 
 ![Terminal Ludo Game](screenshot.png)
 
 ## How to Play
-
+<p align="center">
+<img src="/assets/line.gif">             
+</p>
 1. **Objective:** Be the first player to move all your tokens from the starting area to the home area.
 
 2. **Game Setup:**
@@ -31,19 +36,29 @@ Welcome to Terminal Ludo, a simple version of the classic board game Ludo that c
    - Players can choose to play multiple rounds and keep track of wins.
 
 ## How to Run
-
+<p align="center">
+<img src="/assets/line.gif">             
+</p>
 1. Clone this repository to your local machine.
 2. Open your terminal and navigate to the directory where you cloned the repository.
 3. Run the command to start the game (e.g., `python index.py`).
 
 ## Technologies Used
-
+<p align="center">
+<img src="/assets/line.gif">             
+</p>
 - Python
   
 ## Contributing
-
+<p align="center">
+<img src="/assets/line.gif">             
+</p>
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
 
 ## License
-
+<p align="center">
+<img src="/assets/line.gif">             
+</p>
 This project is licensed under the [MIT License](LICENSE).
+
+![QuickSilver](/assets/footer.svg)
